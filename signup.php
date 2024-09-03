@@ -42,7 +42,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         if ($conn->query($sql) === TRUE) {
             // Redirect to login page
-            header("Location: login.html");
+            header("Location: index.html");
             exit();
         } else {
             echo "Error: " . $sql . "<br>" . $conn->error;
