@@ -104,7 +104,7 @@ if ($conn->connect_error) {
         </div>
         <div class="user-options">
             <a href="form.html"><button>List Place</button></a>
-            <a href="login.html"><button>Log Out</button></a>
+            <a href="index.html"><button>Log Out</button></a>
         </div>
     </header>
     
