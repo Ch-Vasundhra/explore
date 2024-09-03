@@ -20,8 +20,18 @@ Homepage
 
 ![Screenshot 2024-09-03 201306](https://github.com/user-attachments/assets/6b0774f9-4e02-48e5-bd65-efe7e0d3bf8c)
 
+Property Listing
+
+![Screenshot 2024-09-03 173514](https://github.com/user-attachments/assets/cf7af154-a3dc-406a-8f86-780a602334a9)
+
+Registration Page
+
+![Screenshot 2024-09-03 201030](https://github.com/user-attachments/assets/94004ba4-b5fc-40a5-a8d5-c1debb9aecb6)
 
 
+Sign-in Page
+
+![Screenshot 2024-09-03 200722](https://github.com/user-attachments/assets/77ec0f53-afac-43f6-9e7a-c5e22d85dfb2)
 
 
 # Contact
