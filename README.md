@@ -14,6 +14,15 @@ User Reviews: Read and leave reviews to help others make informed decisions.
 # Contributing
 We welcome contributions to the Vacation Homes and Rentals project! If you'd like to contribute, please review our contribution guidelines.
 
+#Screenshots
+
+Homepage
+
+![Screenshot 2024-09-03 201306](https://github.com/user-attachments/assets/6b0774f9-4e02-48e5-bd65-efe7e0d3bf8c)
+
+
+
+
 
 # Contact
 For questions or support, please get in touch with us at vashu0207@gmail.com or visit our website.
